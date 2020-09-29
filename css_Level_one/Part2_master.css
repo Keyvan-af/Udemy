@@ -1,0 +1,17 @@
+body{
+    background: #808080;/*or url(www.mojtaba_image.com)*/
+    background-repeat: no-repeat;
+}
+div{
+    background-color: #ffff00;
+    border-color: #ff0000;
+    border-width: thick;
+    border-style: double;
+}
+p{
+    color: #800080;
+}
+span{
+    background: #ff0000;
+    color: azure;
+}
