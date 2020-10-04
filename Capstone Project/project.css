@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #15D97C;
+    text-align: center;
+    border: 40px solid #E8734A;
+    border-top: 1px;
+    margin: 10px;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+#sub{
+    background-color: #FF9F1C;
+    height: 80px;
+    width: 150px;
+    margin: 4px;
+    margin-top: 12px;
+    font-size: 1.1em;
+    border-radius: 25px;
+}
